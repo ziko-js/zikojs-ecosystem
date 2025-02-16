@@ -6,7 +6,7 @@
 - [mdzjs]()
 - [ziko-chart]()
 - [ziko-code]()
-- [ziko-xls])()
+- [ziko-xls]()
 - [ziko-pdf]()
 - [ziko-lottie]()
 - [ziko-wired]()
